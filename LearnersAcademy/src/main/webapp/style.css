@@ -1,0 +1,11 @@
+.b{
+       border:3px solid rgb(108, 10, 10);
+       border-radius: 5px;
+       margin: 5px;
+}
+.b2{
+       text-align: center;
+       color: beige;
+       border-radius: 3PX;
+       background-color: rgb(108, 10, 10);
+}
